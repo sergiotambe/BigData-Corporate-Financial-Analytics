@@ -1,0 +1,1976 @@
+quarter,year,symbol,sector,industry,name,region,transactiontype,units
+1.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,BUY,1605.0
+1.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,SELL,1605.0
+1.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,SELL,914.0
+1.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,646.0
+1.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,646.0
+1.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,519.0
+1.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,519.0
+1.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,515.0
+1.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,515.0
+1.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,320.0
+1.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,320.0
+1.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,309.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,309.0
+1.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,303.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,303.0
+1.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,303.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,303.0
+3.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,287.0
+3.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,287.0
+3.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,255.0
+4.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,255.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,233.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,233.0
+3.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,222.0
+3.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,222.0
+3.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,222.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,221.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,221.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,217.0
+3.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,217.0
+2.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,215.0
+2.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,215.0
+2.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,214.0
+3.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,214.0
+2.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,199.0
+3.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,199.0
+3.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,198.0
+2.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,198.0
+4.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,198.0
+2.0,2024.0,ALVO,Healthcare,Drug Manufacturers - Specialty & Generic,Luxembourg,Europe,SELL,198.0
+2.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,195.0
+3.0,2024.0,PSFE,Technology,Software - Infrastructure,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,195.0
+4.0,2024.0,ACGL,Financial Services,Insurance - Diversified,Bermuda,Americas,BUY,190.0
+3.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,177.0
+3.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,177.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,155.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,155.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,147.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,147.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,146.0
+3.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,146.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,144.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,144.0
+1.0,2024.0,AMX,Communication Services,Telecom Services,Mexico,Americas,BUY,135.0
+1.0,2024.0,AMX,Communication Services,Telecom Services,Mexico,Americas,SELL,135.0
+1.0,2024.0,AMX,Communication Services,Telecom Services,Mexico,Americas,BUY,133.0
+1.0,2024.0,AMX,Communication Services,Telecom Services,Mexico,Americas,SELL,133.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,BUY,132.0
+2.0,2024.0,HRTX,Healthcare,Biotechnology,United States of America,Americas,SELL,132.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,107.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,107.0
+2.0,2024.0,ACTG,Industrials,Business Equipment & Supplies,United States of America,Americas,BUY,101.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,101.0
+3.0,2024.0,ACTG,Industrials,Business Equipment & Supplies,United States of America,Americas,SELL,101.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,101.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,93.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,91.0
+2.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,91.0
+4.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,91.0
+2.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,91.0
+3.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,87.0
+3.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,87.0
+3.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,84.0
+3.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,84.0
+2.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,83.0
+2.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,83.0
+3.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,82.0
+1.0,2024.0,AMX,Communication Services,Telecom Services,Mexico,Americas,SELL,82.0
+3.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,82.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,81.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,81.0
+2.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,BUY,80.0
+2.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,SELL,80.0
+2.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,BUY,75.0
+2.0,2024.0,BAP,Financial Services,Banks - Regional,Peru,Americas,SELL,75.0
+2.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,74.0
+2.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,74.0
+1.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,73.0
+1.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,73.0
+1.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,71.0
+2.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,71.0
+2.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,67.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,63.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,63.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,62.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,62.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,62.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,62.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,61.0
+2.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,61.0
+4.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,BUY,60.0
+1.0,2024.0,TRN,Industrials,Railroads,United States of America,Americas,BUY,60.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,60.0
+4.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,SELL,60.0
+1.0,2024.0,TRN,Industrials,Railroads,United States of America,Americas,SELL,60.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,60.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,58.0
+3.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,58.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,58.0
+4.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,BUY,58.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,58.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,58.0
+3.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,58.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,58.0
+4.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,SELL,58.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,58.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,56.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,56.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,56.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,56.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,56.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,56.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,56.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,56.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,55.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,55.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,55.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,55.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,55.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,55.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,54.0
+2.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,54.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,53.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,53.0
+1.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,52.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,52.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,52.0
+1.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,52.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,52.0
+2.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,51.0
+2.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,51.0
+2.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,50.0
+2.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,50.0
+3.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,50.0
+3.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,50.0
+2.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,50.0
+3.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,50.0
+3.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,49.0
+4.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,49.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,48.0
+4.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,48.0
+4.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,48.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,47.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,47.0
+4.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,46.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,46.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,46.0
+3.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,BUY,46.0
+4.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,46.0
+2.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,45.0
+4.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,45.0
+2.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,45.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,45.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,45.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,45.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,45.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,45.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,45.0
+3.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,44.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,44.0
+3.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,44.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,44.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,43.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,43.0
+4.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,43.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,SELL,43.0
+2.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,43.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,42.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,42.0
+3.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,41.0
+4.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,41.0
+3.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,41.0
+4.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,41.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,39.0
+3.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,39.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,39.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,39.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,39.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,39.0
+3.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,39.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,39.0
+3.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,39.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,39.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,38.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,38.0
+3.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,BUY,37.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,37.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,37.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,37.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,37.0
+3.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,SELL,37.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,37.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,37.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,37.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,37.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,36.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,36.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,36.0
+3.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,36.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,35.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,35.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,35.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,35.0
+1.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,35.0
+1.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,BUY,35.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,35.0
+4.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,35.0
+1.0,2024.0,ESTC,Technology,Software - Application,"Netherlands, Kingdom of the",Europe,SELL,35.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,35.0
+1.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,35.0
+1.0,2024.0,PAGS,Technology,Software - Infrastructure,Brazil,Americas,SELL,35.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,34.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,34.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,34.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,34.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,34.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,34.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,34.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,34.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,33.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,33.0
+1.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,BUY,33.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,33.0
+3.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,33.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,33.0
+2.0,2024.0,ARDX,Healthcare,Biotechnology,United States of America,Americas,SELL,33.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,33.0
+2.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,BUY,32.0
+3.0,2024.0,DESP,Consumer Cyclical,Travel Services,Virgin Islands (British),Americas,SELL,32.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,31.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,31.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,BUY,30.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,30.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,30.0
+2.0,2024.0,BVN,Basic Materials,Other Precious Metals & Mining,Peru,Americas,BUY,30.0
+2.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,SELL,30.0
+1.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,SELL,30.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,30.0
+2.0,2024.0,BVN,Basic Materials,Other Precious Metals & Mining,Peru,Americas,SELL,30.0
+1.0,2024.0,RIG,Energy,Oil & Gas Drilling,Switzerland,Europe,BUY,29.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,29.0
+1.0,2024.0,RIG,Energy,Oil & Gas Drilling,Switzerland,Europe,SELL,29.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,29.0
+2.0,2024.0,OSCR,Healthcare,Healthcare Plans,United States of America,Americas,BUY,28.0
+1.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,28.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,BUY,28.0
+3.0,2024.0,OSCR,Healthcare,Healthcare Plans,United States of America,Americas,SELL,28.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,28.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,27.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,27.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,27.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,27.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,27.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,27.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,27.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,27.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,27.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,27.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,27.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,26.0
+1.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,BUY,26.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,26.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,26.0
+2.0,2024.0,LTOUF,Industrials,Engineering & Construction,India,Asia,BUY,25.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,25.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,25.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,25.0
+2.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,SELL,25.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,25.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,25.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,25.0
+2.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,24.0
+2.0,2024.0,ASC,Industrials,Marine Shipping,Bermuda,Americas,BUY,24.0
+2.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,24.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,24.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,24.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,24.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,24.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,24.0
+3.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,24.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,24.0
+2.0,2024.0,RYAAY,Industrials,Airlines,Ireland,Europe,SELL,24.0
+3.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,24.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,24.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,24.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,24.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,24.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,24.0
+3.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,24.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,24.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,23.0
+4.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,23.0
+4.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,23.0
+2.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,23.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,23.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,23.0
+4.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,23.0
+4.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,23.0
+3.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,23.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,23.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,22.0
+1.0,2024.0,CAE,Industrials,Aerospace & Defense,Canada,Americas,BUY,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,22.0
+4.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,22.0
+4.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,22.0
+4.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,22.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,22.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,22.0
+2.0,2024.0,TT,Industrials,Building Products & Equipment,Ireland,Europe,BUY,22.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,22.0
+1.0,2024.0,CAE,Industrials,Aerospace & Defense,Canada,Americas,SELL,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,22.0
+4.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,22.0
+4.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,22.0
+4.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,22.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,22.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,22.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,22.0
+3.0,2024.0,TT,Industrials,Building Products & Equipment,Ireland,Europe,SELL,22.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,21.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,21.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,21.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,21.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,21.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,21.0
+3.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,21.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,21.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,21.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,21.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,21.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,21.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,21.0
+3.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,21.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,20.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,20.0
+1.0,2024.0,CAE,Industrials,Aerospace & Defense,Canada,Americas,BUY,20.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,20.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,20.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,20.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,20.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,20.0
+2.0,2024.0,TT,Industrials,Building Products & Equipment,Ireland,Europe,BUY,20.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,20.0
+4.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,20.0
+1.0,2024.0,RIG,Energy,Oil & Gas Drilling,Switzerland,Europe,BUY,20.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,20.0
+1.0,2024.0,CAE,Industrials,Aerospace & Defense,Canada,Americas,SELL,20.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,20.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,20.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,20.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,20.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,20.0
+4.0,2024.0,TT,Industrials,Building Products & Equipment,Ireland,Europe,SELL,20.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,20.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,20.0
+1.0,2024.0,RIG,Energy,Oil & Gas Drilling,Switzerland,Europe,SELL,20.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,19.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,19.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,19.0
+4.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,19.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,19.0
+1.0,2024.0,CSCO,Technology,Communication Equipment,United States of America,Americas,BUY,19.0
+4.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,19.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,19.0
+4.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,19.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,19.0
+4.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,19.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,19.0
+1.0,2024.0,CSCO,Technology,Communication Equipment,United States of America,Americas,SELL,19.0
+4.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,19.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,18.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,18.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,18.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,18.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,18.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,18.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,18.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,18.0
+1.0,2024.0,BKR,Energy,Oil & Gas Equipment & Services,United States of America,Americas,BUY,18.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,18.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,18.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,18.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,18.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,18.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,18.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,18.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,18.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,18.0
+1.0,2024.0,BKR,Energy,Oil & Gas Equipment & Services,United States of America,Americas,SELL,18.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,18.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,17.0
+3.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,BUY,17.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,17.0
+1.0,2024.0,WDC,Technology,Computer Hardware,United States of America,Americas,BUY,17.0
+2.0,2024.0,GSL,Industrials,Marine Shipping,Greece,Europe,BUY,17.0
+2.0,2024.0,GSL,Industrials,Marine Shipping,Greece,Europe,BUY,17.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,17.0
+1.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,17.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,17.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,17.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,SELL,17.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,17.0
+1.0,2024.0,WDC,Technology,Computer Hardware,United States of America,Americas,SELL,17.0
+2.0,2024.0,GSL,Industrials,Marine Shipping,Greece,Europe,SELL,17.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,17.0
+1.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,17.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,17.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,16.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,16.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,16.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,16.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,BUY,16.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,16.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,16.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,16.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,BUY,16.0
+1.0,2024.0,WDC,Technology,Computer Hardware,United States of America,Americas,BUY,16.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,16.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,BUY,16.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,16.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,16.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,16.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,16.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,SELL,16.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,16.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,16.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,16.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,16.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,SELL,16.0
+1.0,2024.0,WDC,Technology,Computer Hardware,United States of America,Americas,SELL,16.0
+2.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,16.0
+1.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,SELL,16.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,BUY,15.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,15.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,BUY,15.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,15.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,15.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,15.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,BUY,15.0
+2.0,2024.0,STNE,Technology,Software - Infrastructure,Cayman Islands,Americas,SELL,15.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,SELL,15.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,15.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,15.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,15.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,15.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,15.0
+1.0,2024.0,BORR,Energy,Oil & Gas Drilling,Bermuda,Americas,SELL,15.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,14.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,14.0
+1.0,2024.0,BKR,Energy,Oil & Gas Equipment & Services,United States of America,Americas,BUY,14.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,14.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,14.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,14.0
+1.0,2024.0,BKR,Energy,Oil & Gas Equipment & Services,United States of America,Americas,SELL,14.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,14.0
+1.0,2024.0,TDC,Technology,Software - Infrastructure,United States of America,Americas,BUY,13.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,13.0
+1.0,2024.0,TDC,Technology,Software - Infrastructure,United States of America,Americas,BUY,13.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,13.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,13.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,13.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,13.0
+1.0,2024.0,TDC,Technology,Software - Infrastructure,United States of America,Americas,SELL,13.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,13.0
+1.0,2024.0,TDC,Technology,Software - Infrastructure,United States of America,Americas,SELL,13.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,13.0
+2.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,13.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,13.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,13.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,12.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,12.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,12.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,12.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,12.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,12.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,12.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,12.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,12.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,12.0
+2.0,2024.0,GM,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,11.0
+2.0,2024.0,ACN,Technology,Information Technology Services,Ireland,Europe,BUY,11.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,11.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,11.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,11.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,11.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,11.0
+2.0,2024.0,GM,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,11.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,11.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,11.0
+2.0,2024.0,GM,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,11.0
+2.0,2024.0,PHVS,Healthcare,Biotechnology,"Netherlands, Kingdom of the",Europe,SELL,11.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,11.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,11.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,11.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,11.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,11.0
+2.0,2024.0,GM,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,11.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,11.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,11.0
+3.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,10.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,10.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,10.0
+1.0,2024.0,CSCO,Technology,Communication Equipment,United States of America,Americas,BUY,10.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,10.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,10.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,10.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,10.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,10.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,10.0
+4.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,10.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,10.0
+3.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,10.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,10.0
+1.0,2024.0,CAE,Industrials,Aerospace & Defense,Canada,Americas,SELL,10.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,10.0
+1.0,2024.0,CSCO,Technology,Communication Equipment,United States of America,Americas,SELL,10.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,10.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,10.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,10.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,10.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,10.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,10.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,10.0
+4.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,10.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,10.0
+3.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,9.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,9.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,9.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,BUY,9.0
+2.0,2024.0,UAL,Industrials,Airlines,United States of America,Americas,BUY,9.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,9.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,9.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,BUY,9.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,9.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,9.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,9.0
+3.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,9.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,9.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,9.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,SELL,9.0
+2.0,2024.0,UAL,Industrials,Airlines,United States of America,Americas,SELL,9.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,9.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,9.0
+1.0,2024.0,TIMB,Communication Services,Telecom Services,Brazil,Americas,SELL,9.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,9.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,9.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,9.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,8.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,BUY,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,8.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,8.0
+1.0,2024.0,WDC,Technology,Computer Hardware,United States of America,Americas,BUY,8.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,8.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,8.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,8.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,8.0
+1.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,8.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,8.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,SELL,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,8.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,8.0
+1.0,2024.0,WDC,Technology,Computer Hardware,United States of America,Americas,SELL,8.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,8.0
+2.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,8.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,8.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,8.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,8.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,8.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,7.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,7.0
+4.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+4.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+3.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,7.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,7.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,7.0
+3.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+3.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,7.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,7.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,7.0
+4.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+4.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,7.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,BUY,7.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,233.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,222.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,222.0
+1.0,2024.0,STNG,Energy,Oil & Gas Midstream,Monaco,Europe,BUY,221.0
+4.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,221.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,217.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,217.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,215.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,215.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,214.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,202.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,202.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,199.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,199.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,198.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,198.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,198.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,195.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,190.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,185.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,185.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,177.0
+4.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,177.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,155.0
+4.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,155.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,147.0
+3.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,146.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,146.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,144.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,136.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,135.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,135.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,135.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,135.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,133.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,133.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,132.0
+4.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,132.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,129.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,129.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,129.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,129.0
+3.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,128.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,128.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,125.0
+1.0,2024.0,RDDT,Communication Services,Internet Content & Information,United States of America,Americas,SELL,123.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,122.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,115.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,115.0
+1.0,2024.0,STNG,Energy,Oil & Gas Midstream,Monaco,Europe,SELL,107.0
+1.0,2024.0,LULU,Consumer Cyclical,Apparel Retail,Canada,Americas,SELL,107.0
+4.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,103.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,101.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,101.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,101.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,101.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,96.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,93.0
+3.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,93.0
+1.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,93.0
+2.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,BUY,92.0
+3.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,92.0
+3.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,92.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,91.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+3.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,91.0
+1.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,87.0
+3.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,BUY,87.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,84.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,84.0
+2.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,BUY,84.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,84.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,83.0
+1.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,83.0
+1.0,2024.0,SEDG,Technology,Solar,Israel,Asia,BUY,82.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,82.0
+2.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,BUY,82.0
+3.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,81.0
+3.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,81.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,80.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,80.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,75.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,75.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,74.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,74.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,73.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,73.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,71.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,69.0
+2.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,68.0
+1.0,2024.0,SNEX,Financial Services,Capital Markets,United States of America,Americas,BUY,68.0
+4.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,67.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,67.0
+2.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,BUY,63.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,62.0
+3.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,BUY,62.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,62.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,62.0
+3.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,61.0
+1.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,61.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,60.0
+2.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,SELL,60.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,60.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,60.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,60.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,60.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,58.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,58.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,58.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+1.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,58.0
+3.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,SELL,58.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,58.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,58.0
+2.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,SELL,58.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,58.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,57.0
+1.0,2024.0,SEDG,Technology,Solar,Israel,Asia,SELL,57.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,56.0
+2.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,SELL,56.0
+4.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,56.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,56.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,56.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,56.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,56.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,56.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,56.0
+1.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,55.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,55.0
+2.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,55.0
+1.0,2024.0,SNEX,Financial Services,Capital Markets,United States of America,Americas,SELL,55.0
+4.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,55.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,55.0
+2.0,2024.0,APP,Technology,Software - Application,United States of America,Americas,SELL,54.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,53.0
+3.0,2024.0,SKYW,Industrials,Airlines,United States of America,Americas,SELL,53.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,53.0
+1.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,53.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,52.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,52.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,52.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,52.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,51.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,51.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,50.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,50.0
+1.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,50.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,50.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,50.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,BUY,50.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,50.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,50.0
+1.0,2024.0,CPA,Industrials,Airlines,Panama,Americas,BUY,49.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,49.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,49.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,49.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,48.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,48.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,48.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,48.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,48.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,47.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,47.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,47.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,46.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,46.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,46.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,46.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,46.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,46.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,46.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,46.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,45.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,45.0
+3.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,BUY,45.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,45.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,45.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,45.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,45.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,45.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,45.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,45.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,45.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,45.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,45.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,45.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,45.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,45.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,44.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,44.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,44.0
+2.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,44.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,44.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,44.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,43.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,43.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,43.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,43.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,43.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,43.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,42.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,42.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,42.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,42.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,42.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,42.0
+1.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,41.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,41.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,41.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,SELL,41.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,41.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,41.0
+1.0,2024.0,CPA,Industrials,Airlines,Panama,Americas,SELL,41.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,41.0
+1.0,2024.0,SBUX,Consumer Cyclical,Restaurants,United States of America,Americas,SELL,40.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,40.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,40.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,40.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,39.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,39.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,39.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,39.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,39.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,39.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,39.0
+1.0,2024.0,DAL,Industrials,Airlines,United States of America,Americas,SELL,39.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,39.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,39.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,38.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,38.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,38.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,38.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,38.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,37.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,37.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,37.0
+3.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,SELL,37.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,37.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,37.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,37.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,37.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,37.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,36.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,36.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,36.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,36.0
+1.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,36.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,36.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,35.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,35.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,35.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,35.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,35.0
+2.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,35.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,35.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,35.0
+1.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,35.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,35.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,35.0
+3.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,34.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,34.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,34.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,34.0
+2.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,34.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,34.0
+1.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,34.0
+2.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,34.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,34.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,34.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,33.0
+2.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,33.0
+4.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,33.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,33.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,33.0
+1.0,2024.0,BA,Industrials,Aerospace & Defense,United States of America,Americas,BUY,33.0
+2.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,33.0
+2.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,32.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,32.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,32.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,32.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,31.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,31.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,30.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,30.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,30.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,30.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,30.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,30.0
+2.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,BUY,30.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,30.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,30.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,30.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,30.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,29.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,29.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,29.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,29.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,29.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,29.0
+1.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,28.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,28.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,28.0
+3.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,28.0
+1.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,28.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,28.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,28.0
+2.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,28.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+1.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,27.0
+2.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+1.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,27.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,27.0
+2.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+4.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,27.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,27.0
+1.0,2024.0,BA,Industrials,Aerospace & Defense,United States of America,Americas,SELL,27.0
+2.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,27.0
+2.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,27.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,26.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,26.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,26.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,26.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,26.0
+3.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,SELL,26.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,26.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,25.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,25.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,25.0
+1.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,25.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,25.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,25.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,25.0
+1.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,25.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,25.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,25.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,25.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,25.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,25.0
+4.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,24.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,24.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,24.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,233.0
+3.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,222.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,222.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,222.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,221.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,BUY,217.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,217.0
+3.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,215.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,215.0
+2.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,214.0
+2.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,BUY,214.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,202.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,202.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,199.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,199.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,198.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,198.0
+4.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,198.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,198.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,195.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,195.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,185.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,BUY,185.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,177.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,BUY,177.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,155.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,155.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,147.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,147.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,146.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,146.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,144.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,BUY,144.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,136.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,BUY,136.0
+1.0,2024.0,CRM,Technology,Software - Application,United States of America,Americas,BUY,135.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,135.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,135.0
+2.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,BUY,133.0
+1.0,2024.0,CRM,Technology,Software - Application,United States of America,Americas,BUY,133.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,132.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,132.0
+2.0,2024.0,GDDY,Technology,Software - Infrastructure,United States of America,Americas,BUY,129.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,129.0
+4.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,129.0
+1.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,129.0
+1.0,2024.0,AIZ,Financial Services,Insurance - Property & Casualty,United States of America,Americas,BUY,128.0
+4.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,128.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,125.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,123.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,123.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,BUY,122.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,122.0
+3.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,115.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,107.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,107.0
+2.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,103.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,101.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,101.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,SELL,96.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,96.0
+4.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,93.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,93.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,93.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,92.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,92.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,91.0
+4.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,91.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,91.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,91.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,91.0
+2.0,2024.0,XYZ,Technology,Software - Infrastructure,United States of America,Americas,SELL,87.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,87.0
+3.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,84.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,84.0
+3.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,84.0
+2.0,2024.0,ALLE,Industrials,Security & Protection Services,Ireland,Europe,SELL,83.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,83.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,82.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,82.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,82.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,81.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,81.0
+4.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,80.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,80.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,75.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,75.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,74.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,SELL,73.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,71.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,SELL,71.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,69.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,69.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,68.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,68.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,67.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,67.0
+2.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,63.0
+1.0,2024.0,MLTX,Healthcare,Biotechnology,Switzerland,Europe,SELL,63.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,62.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,SELL,62.0
+1.0,2024.0,CRM,Technology,Software - Application,United States of America,Americas,SELL,62.0
+2.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,62.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,61.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,SELL,60.0
+1.0,2024.0,CRM,Technology,Software - Application,United States of America,Americas,SELL,60.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,60.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,60.0
+2.0,2024.0,GDDY,Technology,Software - Infrastructure,United States of America,Americas,SELL,60.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,60.0
+4.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,58.0
+1.0,2024.0,AIZ,Financial Services,Insurance - Property & Casualty,United States of America,Americas,SELL,58.0
+4.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,58.0
+2.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,58.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,57.0
+3.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,57.0
+3.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+1.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,56.0
+1.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,56.0
+1.0,2024.0,BA,Industrials,Aerospace & Defense,United States of America,Americas,BUY,56.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,56.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,56.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,56.0
+3.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,56.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,56.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,55.0
+2.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,BUY,55.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,55.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,55.0
+1.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,55.0
+2.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,55.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,55.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,55.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,54.0
+1.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,54.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,53.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,53.0
+3.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,53.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,53.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,52.0
+4.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,52.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,52.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,52.0
+4.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,52.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,51.0
+4.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,51.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,50.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,BUY,50.0
+2.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,50.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,50.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,50.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,50.0
+3.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,50.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,50.0
+1.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,49.0
+1.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,49.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,49.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,49.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,48.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,48.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,48.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,48.0
+3.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,BUY,48.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,48.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,47.0
+2.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,BUY,47.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,47.0
+2.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,47.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,46.0
+4.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,46.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,46.0
+2.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,BUY,46.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,46.0
+1.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,46.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,46.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,46.0
+2.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,45.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,45.0
+3.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,BUY,45.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,45.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,45.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,45.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,45.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,45.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,45.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,45.0
+3.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,45.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,45.0
+1.0,2024.0,ONON,Consumer Cyclical,Footwear & Accessories,Switzerland,Europe,BUY,45.0
+1.0,2024.0,CRM,Technology,Software - Application,United States of America,Americas,BUY,44.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,44.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,44.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,44.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,44.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,43.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,43.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,43.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,43.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,43.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,BUY,43.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,BUY,43.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,BUY,42.0
+2.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,42.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,BUY,42.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,42.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,42.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,42.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,BUY,41.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,41.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,41.0
+1.0,2024.0,AIZ,Financial Services,Insurance - Property & Casualty,United States of America,Americas,BUY,41.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,40.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,SELL,40.0
+1.0,2024.0,BA,Industrials,Aerospace & Defense,United States of America,Americas,SELL,40.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,40.0
+3.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,39.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,39.0
+3.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,39.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,39.0
+1.0,2024.0,SEDG,Technology,Solar,Israel,Asia,SELL,39.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,39.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,39.0
+2.0,2024.0,TSLA,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,SELL,39.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,39.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,39.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,39.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,39.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,38.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,38.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,38.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,38.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,38.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,38.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,37.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,37.0
+4.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,37.0
+1.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,37.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,37.0
+4.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,37.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,37.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,37.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,SELL,37.0
+2.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,37.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,36.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,36.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,36.0
+3.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,36.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,36.0
+1.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,36.0
+1.0,2024.0,IGT,Consumer Cyclical,Gambling,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,35.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,35.0
+4.0,2024.0,NIO,Consumer Cyclical,Auto Manufacturers,China,Asia,SELL,35.0
+3.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,35.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,35.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,35.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,35.0
+3.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,SELL,35.0
+1.0,2024.0,DAL,Industrials,Airlines,United States of America,Americas,SELL,35.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,SELL,35.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,35.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,35.0
+3.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,SELL,34.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,34.0
+2.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,34.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,34.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,34.0
+2.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,SELL,34.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,34.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,34.0
+3.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,34.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,34.0
+2.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,33.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,33.0
+3.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,SELL,33.0
+2.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,33.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,33.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,33.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,33.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,32.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,32.0
+1.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,32.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,32.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,31.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,31.0
+1.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,30.0
+1.0,2024.0,CRM,Technology,Software - Application,United States of America,Americas,SELL,30.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,30.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,30.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,30.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,30.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,30.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,30.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,29.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,29.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,29.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,29.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,SELL,29.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,SELL,29.0
+2.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,28.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,28.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,28.0
+2.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,28.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,SELL,28.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,SELL,28.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,28.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,28.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,27.0
+4.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,27.0
+1.0,2024.0,AIZ,Financial Services,Insurance - Property & Casualty,United States of America,Americas,SELL,27.0
+1.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,27.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,27.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,27.0
+3.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,27.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,27.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,27.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,27.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,27.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,27.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,26.0
+2.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,26.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,26.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,26.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,BUY,26.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,26.0
+1.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,26.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,BUY,26.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,26.0
+3.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,26.0
+2.0,2024.0,PANW,Technology,Software - Infrastructure,United States of America,Americas,BUY,26.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,26.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,26.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,26.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,26.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,26.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,25.0
+4.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,25.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,25.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,25.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,25.0
+4.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,25.0
+2.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,25.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,25.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,25.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,25.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,25.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,25.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,25.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,25.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,24.0
+2.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,24.0
+3.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,24.0
+2.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,BUY,24.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+2.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+3.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,BUY,24.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,24.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+3.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,24.0
+2.0,2024.0,OR,Basic Materials,Gold,Canada,Americas,BUY,24.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+1.0,2024.0,ROIV,Healthcare,Biotechnology,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,23.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,23.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,23.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+2.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+3.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,23.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,23.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,23.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,23.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,23.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,23.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,23.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,23.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,23.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,23.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,23.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,22.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,22.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,233.0
+2.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,222.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,222.0
+2.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,222.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,221.0
+2.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,221.0
+2.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,217.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,217.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,215.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,215.0
+4.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,214.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,214.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,202.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,202.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,199.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,199.0
+1.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,198.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,198.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,198.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,BUY,198.0
+4.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,195.0
+2.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,195.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,190.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,185.0
+3.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,185.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,185.0
+4.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,177.0
+4.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,177.0
+2.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,155.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,155.0
+2.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,147.0
+2.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,146.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,146.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,144.0
+2.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,144.0
+2.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,136.0
+3.0,2024.0,PANW,Technology,Software - Infrastructure,United States of America,Americas,BUY,136.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,135.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,135.0
+3.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,135.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,135.0
+1.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,133.0
+2.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,133.0
+2.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,132.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,132.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,129.0
+2.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,BUY,129.0
+4.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,BUY,129.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,129.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,128.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,128.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,125.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,123.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,123.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,122.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,122.0
+2.0,2024.0,PANW,Technology,Software - Infrastructure,United States of America,Americas,BUY,115.0
+1.0,2024.0,AIR,Industrials,Aerospace & Defense,United States of America,Americas,BUY,115.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,107.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,107.0
+2.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,103.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,101.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,101.0
+2.0,2024.0,OR,Basic Materials,Gold,Canada,Americas,BUY,101.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,101.0
+3.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,BUY,96.0
+2.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,BUY,96.0
+2.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,93.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,93.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,BUY,93.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,92.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,92.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,92.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,91.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,91.0
+4.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,91.0
+2.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,91.0
+1.0,2024.0,CVAC,Healthcare,Biotechnology,Germany,Europe,BUY,91.0
+4.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,91.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,87.0
+3.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,87.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,84.0
+2.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,84.0
+2.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,84.0
+3.0,2024.0,CB,Financial Services,Insurance - Property & Casualty,Switzerland,Europe,BUY,84.0
+1.0,2024.0,NOMD,Consumer Defensive,Packaged Foods,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,83.0
+3.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,83.0
+1.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,82.0
+3.0,2024.0,GRMN,Technology,Scientific & Technical Instruments,Switzerland,Europe,BUY,82.0
+3.0,2024.0,HNGZY,Healthcare,Diagnostics & Research,China,Asia,BUY,82.0
+4.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,BUY,81.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,81.0
+3.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,BUY,80.0
+1.0,2024.0,PNR,Industrials,Specialty Industrial Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,80.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,75.0
+1.0,2024.0,FINV,Financial Services,Credit Services,China,Asia,BUY,75.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,74.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,74.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,73.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,73.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,71.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,71.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,69.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,69.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,68.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,68.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,67.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,67.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,63.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,63.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,62.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,62.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,62.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,62.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,61.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,61.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,60.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,60.0
+1.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,60.0
+1.0,2024.0,CSCO,Technology,Communication Equipment,United States of America,Americas,DIVIDENT,60.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,DIVIDENT,60.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,DIVIDENT,60.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,DIVIDENT,58.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,DIVIDENT,58.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,DIVIDENT,58.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,DIVIDENT,58.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,DIVIDENT,58.0
+2.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,DIVIDENT,58.0
+2.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,DIVIDENT,58.0
+2.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,DIVIDENT,57.0
+2.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,DIVIDENT,57.0
+2.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,DIVIDENT,56.0
+2.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,DIVIDENT,56.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,DIVIDENT,56.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,56.0
+2.0,2024.0,TT,Industrials,Building Products & Equipment,Ireland,Europe,DIVIDENT,56.0
+2.0,2024.0,GM,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,DIVIDENT,56.0
+2.0,2024.0,GM,Consumer Cyclical,Auto Manufacturers,United States of America,Americas,DIVIDENT,56.0
+2.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,56.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,55.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,DIVIDENT,55.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,DIVIDENT,55.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,55.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,55.0
+2.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,55.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,DIVIDENT,55.0
+3.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,DIVIDENT,54.0
+3.0,2024.0,DIS,Communication Services,Entertainment,United States of America,Americas,DIVIDENT,54.0
+3.0,2024.0,JPM,Financial Services,Banks - Diversified,United States of America,Americas,DIVIDENT,53.0
+3.0,2024.0,DELL,Technology,Computer Hardware,United States of America,Americas,DIVIDENT,53.0
+3.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,DIVIDENT,53.0
+3.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,DIVIDENT,52.0
+3.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,DIVIDENT,52.0
+3.0,2024.0,RGA,Financial Services,Insurance - Reinsurance,United States of America,Americas,DIVIDENT,51.0
+3.0,2024.0,INTC,Technology,Semiconductors,United States of America,Americas,DIVIDENT,51.0
+3.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,DIVIDENT,50.0
+3.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,DIVIDENT,50.0
+3.0,2024.0,GSL,Industrials,Marine Shipping,Greece,Europe,DIVIDENT,50.0
+3.0,2024.0,GSL,Industrials,Marine Shipping,Greece,Europe,DIVIDENT,50.0
+3.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,DIVIDENT,50.0
+3.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,50.0
+3.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,50.0
+3.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,50.0
+3.0,2024.0,MDT,Healthcare,Medical Devices,Ireland,Europe,DIVIDENT,49.0
+3.0,2024.0,TT,Industrials,Building Products & Equipment,Ireland,Europe,DIVIDENT,49.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,49.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,49.0
+3.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,DIVIDENT,48.0
+3.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,48.0
+3.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,48.0
+3.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,48.0
+3.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,48.0
+4.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,DIVIDENT,48.0
+4.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,DIVIDENT,47.0
+4.0,2024.0,CB,Financial Services,Insurance - Property & Casualty,Switzerland,Europe,DIVIDENT,47.0
+4.0,2024.0,IMMR,Technology,Software - Application,United States of America,Americas,DIVIDENT,46.0
+4.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,DIVIDENT,46.0
+4.0,2024.0,AAPL,Technology,Consumer Electronics,United States of America,Americas,DIVIDENT,46.0
+4.0,2024.0,GSL,Industrials,Marine Shipping,Greece,Europe,DIVIDENT,46.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,46.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,46.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,46.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,45.0
+4.0,2024.0,TEL,Technology,Electronic Components,Ireland,Europe,DIVIDENT,45.0
+4.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,45.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,DIVIDENT,45.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,45.0
+4.0,2024.0,ETN,Industrials,Specialty Industrial Machinery,Ireland,Europe,DIVIDENT,45.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,DIVIDENT,45.0
+3.0,2024.0,GOOG,Communication Services,Internet Content & Information,United States of America,Americas,SELL,45.0
+3.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,45.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,45.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,45.0
+1.0,2024.0,DOLE,Consumer Defensive,Farm Products,Ireland,Europe,SELL,45.0
+3.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,44.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,44.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,44.0
+1.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,SELL,44.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,44.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,44.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,43.0
+2.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,SELL,43.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,43.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,43.0
+4.0,2024.0,AMZN,Consumer Cyclical,Internet Retail,United States of America,Americas,SELL,43.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,43.0
+1.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,SELL,43.0
+2.0,2024.0,BRFS,Consumer Defensive,Packaged Foods,Brazil,Americas,SELL,42.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,42.0
+3.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,42.0
+2.0,2024.0,PANW,Technology,Software - Infrastructure,United States of America,Americas,SELL,42.0
+1.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,SELL,42.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,41.0
+1.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,SELL,41.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,41.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,41.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,41.0
+4.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,41.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,41.0
+1.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,SELL,41.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,40.0
+4.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,40.0
+2.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,40.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,40.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,39.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,39.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,39.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,39.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,39.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,39.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,39.0
+3.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,39.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,39.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,39.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,39.0
+4.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,39.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,38.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,38.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,38.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,38.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,38.0
+3.0,2024.0,CVE,Energy,Oil & Gas Integrated,Canada,Americas,SELL,38.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,37.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,37.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,37.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,37.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,37.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,37.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,37.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,37.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,37.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,37.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,36.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,36.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,36.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,36.0
+3.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,36.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,36.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,35.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,35.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,35.0
+1.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,35.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,35.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,35.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,35.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,35.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,35.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,35.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,35.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,35.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,34.0
+2.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,SELL,34.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,SELL,34.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,34.0
+2.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,34.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,34.0
+2.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,SELL,34.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,34.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,34.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,34.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,33.0
+4.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,33.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,33.0
+1.0,2024.0,NEE,Utilities,Utilities - Regulated Electric,United States of America,Americas,SELL,33.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,33.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,33.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,33.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,33.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,33.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,33.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,32.0
+1.0,2024.0,TCX,Technology,Software - Infrastructure,Canada,Americas,SELL,32.0
+4.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,32.0
+2.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,32.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,31.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,31.0
+3.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,30.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,30.0
+2.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,30.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,30.0
+2.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,30.0
+2.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,SELL,30.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,30.0
+1.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,30.0
+2.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,30.0
+2.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,30.0
+3.0,2024.0,PANW,Technology,Software - Infrastructure,United States of America,Americas,SELL,29.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,29.0
+3.0,2024.0,ARM,Technology,Semiconductors,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,29.0
+3.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,29.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,29.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,29.0
+2.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,28.0
+2.0,2024.0,AMCR,Consumer Cyclical,Packaging & Containers,Switzerland,Europe,SELL,28.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,28.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,28.0
+2.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,SELL,28.0
+4.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,SELL,28.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,28.0
+1.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,28.0
+3.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,28.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,27.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,27.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,27.0
+2.0,2024.0,PANW,Technology,Software - Infrastructure,United States of America,Americas,SELL,27.0
+1.0,2024.0,AIR,Industrials,Aerospace & Defense,United States of America,Americas,SELL,27.0
+1.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,27.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,27.0
+2.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,27.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+2.0,2024.0,OR,Basic Materials,Gold,Canada,Americas,SELL,27.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,27.0
+1.0,2024.0,CPA,Industrials,Airlines,Panama,Americas,SELL,27.0
+4.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,SELL,27.0
+2.0,2024.0,CDNS,Technology,Software - Application,United States of America,Americas,SELL,26.0
+2.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,26.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,26.0
+3.0,2024.0,AMD,Technology,Semiconductors,United States of America,Americas,SELL,26.0
+1.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,26.0
+1.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,26.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+1.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+4.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,26.0
+2.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,26.0
+2.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,26.0
+4.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,26.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,26.0
+3.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,26.0
+1.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,25.0
+3.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,25.0
+2.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,25.0
+3.0,2024.0,CB,Financial Services,Insurance - Property & Casualty,Switzerland,Europe,SELL,25.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,25.0
+4.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,25.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,25.0
+3.0,2024.0,NVCR,Healthcare,Medical Devices,Switzerland,Europe,SELL,233.0
+3.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,SELL,222.0
+4.0,2024.0,MA,Financial Services,Credit Services,United States of America,Americas,SELL,222.0
+1.0,2024.0,CPA,Industrials,Airlines,Panama,Americas,SELL,222.0
+2.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,221.0
+3.0,2024.0,V,Financial Services,Credit Services,United States of America,Americas,SELL,221.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,217.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,217.0
+1.0,2024.0,YMM,Technology,Software - Application,China,Asia,SELL,215.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,BUY,215.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,BUY,214.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,BUY,214.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,BUY,202.0
+2.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,202.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,BUY,199.0
+2.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,199.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,198.0
+3.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,198.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,198.0
+2.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,198.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,195.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,195.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,190.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,185.0
+2.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,185.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,185.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,177.0
+1.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,177.0
+3.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,155.0
+2.0,2024.0,CNH,Industrials,Farm & Heavy Construction Machinery,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,155.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,147.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,147.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,146.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,146.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,144.0
+2.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,144.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,136.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,136.0
+3.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,135.0
+3.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,135.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,135.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,135.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,133.0
+3.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,133.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,132.0
+2.0,2024.0,BWMX,Consumer Cyclical,Specialty Retail,Mexico,Americas,BUY,132.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,129.0
+3.0,2024.0,SLF,Financial Services,Insurance - Diversified,Canada,Americas,BUY,129.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,129.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,129.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,128.0
+3.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,128.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,125.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,123.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,123.0
+3.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,122.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,122.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,115.0
+1.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,115.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,107.0
+3.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,107.0
+3.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,103.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,BUY,101.0
+3.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,BUY,101.0
+4.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,101.0
+2.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,BUY,101.0
+4.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,96.0
+1.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,BUY,96.0
+3.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,93.0
+3.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,93.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,93.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,92.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,92.0
+2.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,92.0
+1.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,91.0
+2.0,2024.0,BWMX,Consumer Cyclical,Specialty Retail,Mexico,Americas,BUY,91.0
+1.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+1.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+1.0,2024.0,ZK,Consumer Cyclical,Auto Manufacturers,China,Asia,BUY,91.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,87.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,87.0
+2.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,84.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,84.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,84.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,84.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,83.0
+2.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,83.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,82.0
+4.0,2024.0,BWMX,Consumer Cyclical,Specialty Retail,Mexico,Americas,BUY,82.0
+3.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,82.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,81.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,BUY,81.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,80.0
+4.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,80.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,75.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,BUY,75.0
+1.0,2024.0,KNSA,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom of Great Britain and Northern Ireland,Europe,BUY,74.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,74.0
+1.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,BUY,73.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,73.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,71.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,BUY,71.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,69.0
+1.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,69.0
+2.0,2024.0,SMNEY,Industrials,Specialty Industrial Machinery,Germany,Europe,BUY,68.0
+1.0,2024.0,EH,Industrials,Aerospace & Defense,China,Asia,BUY,68.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,67.0
+1.0,2024.0,IMAX,Communication Services,Entertainment,Canada,Americas,BUY,67.0
+2.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,BUY,63.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,BUY,63.0
+1.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,62.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,SELL,62.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,SELL,62.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,SELL,62.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,SELL,61.0
+2.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,61.0
+1.0,2024.0,BKNG,Consumer Cyclical,Travel Services,United States of America,Americas,SELL,60.0
+2.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,60.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,60.0
+3.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,60.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,60.0
+1.0,2024.0,SEDG,Technology,Solar,Israel,Asia,SELL,60.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,58.0
+3.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,58.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,58.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,58.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,58.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,58.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,58.0
+1.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,58.0
+3.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,58.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,57.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,57.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,56.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,56.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+2.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,56.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,56.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,56.0
+3.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,56.0
+4.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,56.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,56.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,56.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,56.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,55.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,55.0
+4.0,2024.0,BWMX,Consumer Cyclical,Specialty Retail,Mexico,Americas,SELL,55.0
+3.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,55.0
+3.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,55.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,55.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,55.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,55.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,54.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,54.0
+3.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,53.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,53.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,53.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,53.0
+2.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,52.0
+1.0,2024.0,SEDG,Technology,Solar,Israel,Asia,SELL,52.0
+1.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,52.0
+1.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,52.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,52.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,51.0
+2.0,2024.0,ASML,Technology,Semiconductor Equipment & Materials,"Netherlands, Kingdom of the",Europe,SELL,51.0
+3.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,50.0
+4.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,50.0
+2.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,50.0
+1.0,2024.0,SEDG,Technology,Solar,Israel,Asia,SELL,50.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,50.0
+3.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,50.0
+3.0,2024.0,ATHM,Communication Services,Internet Content & Information,China,Asia,SELL,50.0
+2.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,50.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,49.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,49.0
+2.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,49.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,49.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,48.0
+2.0,2024.0,BWMX,Consumer Cyclical,Specialty Retail,Mexico,Americas,SELL,48.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,48.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,48.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,48.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,48.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,47.0
+2.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,47.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,47.0
+4.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,47.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,46.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,46.0
+2.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,46.0
+4.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,46.0
+4.0,2024.0,BWMX,Consumer Cyclical,Specialty Retail,Mexico,Americas,SELL,46.0
+3.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,46.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,46.0
+2.0,2024.0,MSFT,Technology,Software - Infrastructure,United States of America,Americas,SELL,46.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,46.0
+4.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,45.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,45.0
+2.0,2024.0,SPOT,Communication Services,Internet Content & Information,Luxembourg,Europe,SELL,45.0
+1.0,2024.0,LIN,Basic Materials,Specialty Chemicals,United Kingdom of Great Britain and Northern Ireland,Europe,SELL,45.0
+1.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,45.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,45.0
+4.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,45.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,45.0
+2.0,2024.0,BLK,Financial Services,Asset Management,United States of America,Americas,SELL,45.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,45.0
+1.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,45.0
+2.0,2024.0,DTRUY,Industrials,Farm & Heavy Construction Machinery,Germany,Europe,SELL,45.0
+1.0,2024.0,INFY,Technology,Information Technology Services,India,Asia,SELL,45.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,45.0
+1.0,2024.0,WB,Communication Services,Internet Content & Information,China,Asia,SELL,45.0
+3.0,2024.0,META,Communication Services,Internet Content & Information,United States of America,Americas,SELL,45.0
+2.0,2024.0,LLY,Healthcare,Drug Manufacturers - General,United States of America,Americas,SELL,45.0
