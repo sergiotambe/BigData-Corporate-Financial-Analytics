@@ -5,8 +5,6 @@ An end-to-end Data Science project focusing on financial data extraction, key in
 ## 🎯 Project Overview
 This repository contains a comprehensive analysis of corporate financial conditions and transaction volumes. It transitions from raw data extraction and preprocessing in Jupyter Notebooks to a fully interactive web application built with Streamlit.
 
-**Live Dashboard:** [Insert Streamlit Cloud URL here]
-
 ## 🏗️ Architecture & Workflow
 The project is divided into analytical phases and deployment:
 1. **Data Preparation & Cleaning (`notebooks/01`):** Extraction and sanitization of raw financial data.
